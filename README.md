@@ -97,6 +97,9 @@ pip install torch numpy scikit-learn pyyaml
 
     Dieses Skript startet eine Simulation mit **mehreren konfigurierbaren KI-Agenten**, die in einer **gemeinsamen Umgebung interagieren**.
 
+    ![image](https://github.com/user-attachments/assets/abdfb5f4-3baf-441d-8334-c082e0007cf7)
+
+
 ## ⚙️ Konfiguration
 
 Die Konfiguration des KI-Agenten erfolgt hauptsächlich über **YAML-Dateien**.  Eine Beispiel-YAML-Datei (`agent_config.yaml`) ist im Projekt enthalten und dient als Vorlage.
