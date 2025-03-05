@@ -1,4 +1,5 @@
 # Konfigurierbarer KI-Agent mit Dynamischer Hierarchischer Selbst-Attention, Weltmodell, Emotionen und Zielen
+![logo](https://github.com/user-attachments/assets/41ac80ed-0046-4e82-9ee2-308154492c39)
 
 [![Projekt ist Open Source](https://img.shields.io/badge/Open%20Source-Ja-brightgreen.svg)](https://opensource.org/)
 [![Lizenz: MIT](https://img.shields.io/badge/Lizenz-MIT-gelb.svg)](https://opensource.org/licenses/MIT)
